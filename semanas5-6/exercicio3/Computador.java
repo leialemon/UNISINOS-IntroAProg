@@ -24,7 +24,7 @@ public class Computador{
 	}
 
 	public int getVelocidade(){
-		return this.velocidade
+		return this.velocidade;
 	}
 
 	public void setAnoFabricacao(int ano){
